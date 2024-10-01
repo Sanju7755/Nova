@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tabler/icons-react": "^3.12.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.24",
+    "mini-svg-data-uri": "^1.4.4",
+    "simplex-noise": "^4.0.3",
+    "tailwind-merge": "^2.4.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.9"
+  }
+}
